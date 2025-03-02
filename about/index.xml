@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>所有about - ShuMoon的驿站</title>
+    <link>https://shumoon.top/about/</link>
+    <description>ShuMoon的驿站</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-8b402129</generator>
+    <language>zh-CN</language>
+    <managingEditor>shumoon02200059@gmail.com (ShuMoon)</managingEditor>
+    <webMaster>shumoon02200059@gmail.com (ShuMoon)</webMaster>
+    <lastBuildDate>Sun, 02 Mar 2025 21:56:34 +0100</lastBuildDate>
+    <atom:link href="https://shumoon.top/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://shumoon.top/about/about/</link>
+      <pubDate>Sun, 02 Mar 2025 21:56:34 +0100</pubDate><author>shumoon02200059@gmail.com (ShuMoon)</author>
+      <guid>https://shumoon.top/about/about/</guid>
+      <description>&lt;p&gt;此处内容将会出现在摘要（summary）里&lt;/p&gt;&#xA;&lt;!--\more--&gt; # 此处的“\”用于转义，否则无法正常显示，实际使用须删去。&#xA;&lt;p&gt;此处开始为正文&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
