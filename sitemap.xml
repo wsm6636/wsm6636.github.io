@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shumoon.top/about/</loc>
+    <lastmod>2025-03-02T21:12:44+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://shumoon.top/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -11,14 +17,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shumoon.top/posts/</loc>
-    <lastmod>2025-03-02T17:56:02+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://shumoon.top/</loc>
-    <lastmod>2025-03-02T17:56:02+01:00</lastmod>
+    <lastmod>2025-03-02T21:12:44+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
