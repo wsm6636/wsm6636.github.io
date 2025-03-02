@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shumoon.top/about/</loc>
-    <lastmod>2025-03-02T22:53:44+01:00</lastmod>
+    <loc>https://shumoon.top/collections/</loc>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shumoon.top/posts/</loc>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://shumoon.top/</loc>
-    <lastmod>2025-03-02T22:53:44+01:00</lastmod>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shumoon.top/tags/</loc>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shumoon.top/posts/test/</loc>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shumoon.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shumoon.top/collections/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shumoon.top/about/</loc>
+    <lastmod>2025-03-03T00:22:55+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,16 +56,6 @@
   </url>
   <url>
     <loc>https://shumoon.top/categories/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://shumoon.top/collections/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://shumoon.top/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
