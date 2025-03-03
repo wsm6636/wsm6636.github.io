@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ob - 标签 - ShuMoon的驿站</title>
-    <link>http://localhost:4577/tags/ob/</link>
+    <title>OB - 标签 - ShuMoon的驿站</title>
+    <link>https://shumoon.top/tags/ob/</link>
     <description>ShuMoon的驿站</description>
     <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-8b402129</generator>
     <language>zh-CN</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:4577/tags/ob/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 03:13:36 +0100</lastBuildDate>
+    <atom:link href="https://shumoon.top/tags/ob/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>obtest</title>
+      <link>https://shumoon.top/posts/obtest/</link>
+      <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
+      <guid>https://shumoon.top/posts/obtest/</guid>
+      <category domain="https://shumoon.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <description>&lt;p&gt;测试OB&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
