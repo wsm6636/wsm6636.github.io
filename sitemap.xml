@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://shumoon.top/posts/%E4%B8%AA%E4%BA%BA%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <lastmod>2025-03-02T23:51:20+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://shumoon.top/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-03-03T19:49:13+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -81,6 +87,12 @@
   <url>
     <loc>https://shumoon.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-03-03T19:49:13+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shumoon.top/collections/%E8%87%AA%E7%94%A8/</loc>
+    <lastmod>2025-03-02T23:51:20+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

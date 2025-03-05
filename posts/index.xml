@@ -24,5 +24,13 @@
       <category domain="https://shumoon.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
       <description>&lt;p&gt;测试Theme&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>个人备忘录</title>
+      <link>https://shumoon.top/posts/%E4%B8%AA%E4%BA%BA%E5%A4%87%E5%BF%98%E5%BD%95/</link>
+      <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
+      <guid>https://shumoon.top/posts/%E4%B8%AA%E4%BA%BA%E5%A4%87%E5%BF%98%E5%BD%95/</guid>
+      <category domain="https://shumoon.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <description>&lt;p&gt;每次用都会忘的命令，汇总一下不用每次都搜&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
