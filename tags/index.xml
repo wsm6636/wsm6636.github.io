@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags - 标签 - ShuMoon的驿站</title>
+    <title>Tags on ShuMoon的驿站</title>
     <link>https://shumoon.top/tags/</link>
-    <description>ShuMoon的驿站</description>
-    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-8b402129</generator>
+    <description>Recent content in Tags on ShuMoon的驿站</description>
+    <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 07 Mar 2025 16:26:53 +0100</lastBuildDate>
     <atom:link href="https://shumoon.top/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -13,35 +13,35 @@
       <link>https://shumoon.top/tags/ob/</link>
       <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
       <guid>https://shumoon.top/tags/ob/</guid>
-      <description>OB</description>
+      <description></description>
     </item>
     <item>
       <title>博客</title>
       <link>https://shumoon.top/tags/%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
       <guid>https://shumoon.top/tags/%E5%8D%9A%E5%AE%A2/</guid>
-      <description>博客</description>
+      <description></description>
     </item>
     <item>
       <title>测试</title>
       <link>https://shumoon.top/tags/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
       <guid>https://shumoon.top/tags/%E6%B5%8B%E8%AF%95/</guid>
-      <description>测试</description>
+      <description></description>
     </item>
     <item>
       <title>个人</title>
       <link>https://shumoon.top/tags/%E4%B8%AA%E4%BA%BA/</link>
       <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
       <guid>https://shumoon.top/tags/%E4%B8%AA%E4%BA%BA/</guid>
-      <description>个人</description>
+      <description></description>
     </item>
     <item>
       <title>教程</title>
       <link>https://shumoon.top/tags/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
       <guid>https://shumoon.top/tags/%E6%95%99%E7%A8%8B/</guid>
-      <description>教程</description>
+      <description></description>
     </item>
   </channel>
 </rss>

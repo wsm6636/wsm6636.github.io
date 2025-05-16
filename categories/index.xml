@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - 分类 - ShuMoon的驿站</title>
+    <title>Categories on ShuMoon的驿站</title>
     <link>https://shumoon.top/categories/</link>
-    <description>ShuMoon的驿站</description>
-    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-8b402129</generator>
+    <description>Recent content in Categories on ShuMoon的驿站</description>
+    <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 07 Mar 2025 16:26:53 +0100</lastBuildDate>
     <atom:link href="https://shumoon.top/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://shumoon.top/categories/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
       <guid>https://shumoon.top/categories/%E6%95%99%E7%A8%8B/</guid>
-      <description>教程</description>
+      <description></description>
     </item>
   </channel>
 </rss>
