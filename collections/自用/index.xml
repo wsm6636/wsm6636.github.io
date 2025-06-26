@@ -6,7 +6,7 @@
     <description>ShuMoon的驿站</description>
     <generator>Hugo 0.147.9 &amp; FixIt v0.3.21-a85a6655</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 02 Mar 2025 23:51:20 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 13:29:56 +0200</lastBuildDate>
     <atom:link href="https://shumoon.top/collections/%E8%87%AA%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>个人备忘录</title>
@@ -14,7 +14,7 @@
       <pubDate>Sun, 02 Mar 2025 23:51:20 +0100</pubDate>
       <guid>https://shumoon.top/posts/%E4%B8%AA%E4%BA%BA%E5%A4%87%E5%BF%98%E5%BD%95/</guid>
       <category domain="https://shumoon.top/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;p&gt;每次用都会忘的命令，汇总一下不用每次都搜&lt;/p&gt;</description>
+      <description>&lt;p&gt;每次用都会忘的命令，汇总一下不用每次都找不到&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
